@@ -2,9 +2,9 @@ from email.message import EmailMessage
 import ssl
 import smtplib
 
-email_sender = 'mydrive2005688@gmail.com'
-email_reciever = 'toxodew821@royalka.com'
-email_pass = 'xlesjokhcqqemapy'
+email_sender = ''
+email_reciever = ''
+email_pass=''
 subject = 'trying out email sender . PY'
 body = ''' 
 Just trying out new stuff nvm!!
